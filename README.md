@@ -26,6 +26,3 @@ Este projeto utiliza a API The Movie Database (TMDb) para buscar dados de filmes
 
 ## Contribuição
 Contribuições são bem-vindas! Se você deseja contribuir para o projeto, por favor, faça um fork do repositório e envie um pull request com suas alterações.
-
-## Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
